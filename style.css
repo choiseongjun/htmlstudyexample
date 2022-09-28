@@ -26,10 +26,10 @@
 .product .category {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 352px;
+  margin: 0 352.5px;
 }
 .product .category > div {
-  width: 343px;
+  width: 250px;
   height: 511px;
   margin: 20px;
 }
